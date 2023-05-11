@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.crazymeal.resliencestarter.CircuitBreakerRegistryAutoConfiguration,\
+  com.crazymeal.resliencestarter.CircuitBreakerAutoConfiguration
